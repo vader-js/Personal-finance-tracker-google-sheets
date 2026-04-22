@@ -24,7 +24,7 @@ Used for configuration and setup.
 > ⚠️ Changes here automatically reflect across the entire tracker.
 
 📸 **Screenshot:**  
-![Status Tab](assets/Screenshot 2026-04-23 001032.png)
+![Status Tab](assets/status-image.png)
 
 ---
 
