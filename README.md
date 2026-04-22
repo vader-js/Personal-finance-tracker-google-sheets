@@ -23,7 +23,7 @@ Used for configuration and setup.
 
 > ⚠️ Changes here automatically reflect across the entire tracker.
 
-📸 **Screenshot:**  
+📸 
 ![Status Tab](assets/status-image.png)
 
 ---
@@ -41,8 +41,8 @@ This is where all financial activity is recorded.
 - Type (Income / Expense)
 - Running Balance
 
-📸 **Screenshot:**  
-`![Transactions Tab](screenshots/transactions-tab.png)`
+📸
+![Transactions Tab](assets/transaction-image.png)
 
 ---
 
@@ -58,7 +58,7 @@ Includes:
 All visuals update automatically based on transaction data.
 
 📸 **Screenshot:**  
-`![Dashboard](screenshots/dashboard.png)`
+![Dashboard](assets/dashboard-image.png)
 
 ---
 
